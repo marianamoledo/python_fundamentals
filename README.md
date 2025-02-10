@@ -1,6 +1,6 @@
 Bem-vindo(a) ao repositório **python_fundamentals**! 🐍📚
 
-Aqui, compartilho anotações, revisões, exemplos de código e recursos que estou utilizando para aprender e aprimorar minhas habilidades em Python. 
+Aqui, compartilho anotações, revisões, exemplos de código e recursos que estou utilizando para revisar, aprender e aprimorar minhas habilidades em Python. 
 
 A ideia é que esse material possa ajudar outras pessoas que também estão começando ou querem se aprofundar na linguagem.😄
 
@@ -10,16 +10,6 @@ Nesse repositório você pode encontrar:
 - **Exemplos de código** comentados e explicados.
 - **Projetos práticos** para aplicar o conhecimento.
 - **Recursos úteis** como livros, cursos, artigos e ferramentas.
-
-Acredito que aprender em público não só ajuda a consolidar o conhecimento, mas também cria um ambiente colaborativo onde todos podem contribuir e se beneficiar.
-
-## Como Usar Este Repositório 🖥️
-
-Atualmente, o repositório contém os seguintes arquivos:
-
-00_estruturas_condicionais_e_repeticao.ipynb ➝ Condições (if, elif, else) e loops (for, while).
-01_listas_tuplas_dicionarios.ipynb ➝ Manipulação de listas, tuplas e dicionários.
-Novos conteúdos serão adicionados conforme minha revisão e aprendizado avançam.
 
 ## Por Que Aprender em Público? 🌍📖
 
@@ -33,6 +23,14 @@ Ao compartilhar o que estou aprendendo, espero:
 2. **Criar um portfólio público**: Este repositório serve como um registro do meu progresso e habilidades.
 3. **Ajudar outras pessoas**: Se você está começando em Python, espero que este material seja útil para você.
 4. **Receber feedback**: Contribuições, correções e sugestões são sempre bem-vindas!
+
+## Como Usar Este Repositório 🖥️
+
+Atualmente, o repositório contém os seguintes arquivos:
+
+00_estruturas_condicionais_e_repeticao.ipynb ➝ Condições (if, elif, else) e loops (for, while).
+01_listas_tuplas_dicionarios.ipynb ➝ Manipulação de listas, tuplas e dicionários.
+Novos conteúdos serão adicionados conforme minha revisão e aprendizado avançam.
 
 ## Como Contribuir 🤝
 
