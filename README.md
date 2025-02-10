@@ -15,11 +15,19 @@ Acredito que aprender em público não só ajuda a consolidar o conhecimento, ma
 
 ## Como Usar Este Repositório 🖥️
 
-Este repositório está organizado em pastas e arquivos temáticos. Sinta-se à vontade para explorar as pastas, ler os arquivos e usar os exemplos de código. Se encontrar algo que possa ser melhorado ou tiver sugestões, contribuições são muito bem-vindas!
+Atualmente, o repositório contém os seguintes arquivos:
+
+00_estruturas_condicionais_e_repeticao.ipynb ➝ Condições (if, elif, else) e loops (for, while).
+01_listas_tuplas_dicionarios.ipynb ➝ Manipulação de listas, tuplas e dicionários.
+Novos conteúdos serão adicionados conforme minha revisão e aprendizado avançam.
 
 ## Por Que Aprender em Público? 🌍📖
 
-Aprender em público é uma forma poderosa de consolidar conhecimento, receber feedback e ajudar outras pessoas. Ao compartilhar o que estou aprendendo, espero:
+O conceito de "Learn in Public" significa aprender de forma aberta, compartilhando o processo de aprendizado com os outros. Ao invés de aprender de forma isolada, compartilho meu progresso, dúvidas e soluções com a comunidade, permitindo que outras pessoas aprendam junto comigo. Acredito que isso não só facilita o aprendizado, como também promove um ambiente de colaboração e crescimento mútuo.
+
+A ideia é documentar e compartilhar cada passo do meu processo de revisão e aprendizado em Python, tornando-o acessível para quem está começando ou até mesmo para quem quer revisar e reforçar os conceitos fundamentais da linguagem.
+
+Ao compartilhar o que estou aprendendo, espero:
 
 1. **Reforçar meu aprendizado**: Explicar conceitos para outras pessoas me ajuda a entender melhor o conteúdo.
 2. **Criar um portfólio público**: Este repositório serve como um registro do meu progresso e habilidades.
