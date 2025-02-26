@@ -24,6 +24,10 @@ Ao compartilhar o que estou aprendendo, espero:
 3. **Ajudar outras pessoas**: Se você está começando em Python, espero que este material seja útil para você.
 4. **Receber feedback**: Contribuições, correções e sugestões são sempre bem-vindas!
 
+## Sobre os Exercícios e Projetos 🌟
+
+Os exercícios e projetos práticos apresentados aqui são retirados do curso da ASIMOV Academy, uma plataforma focada no ensino de programação e tecnologia.
+
 ## Como Usar Este Repositório 🖥️
 
 Atualmente, o repositório contém os seguintes arquivos:
@@ -57,6 +61,8 @@ Aqui estão alguns recursos que utilizei e recomendo para aprender Python:
 - **Ferramentas**:
   - [Jupyter Notebook](https://jupyter.org/) para experimentar código interativamente.
   - [VS Code](https://code.visualstudio.com/) como editor de código.
+- **Cursos**:
+  - [ASIMOV Academy](https://asimov.academy/)
 
 ## Agradecimentos
 
