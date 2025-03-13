@@ -1,15 +1,6 @@
-Bem-vindo(a) ao repositório **python_fundamentals**! 🐍📚
-
-Aqui, compartilho anotações, revisões, exemplos de código e recursos que estou utilizando para revisar, aprender e aprimorar minhas habilidades em Python. 
+Olá! Nesse repositório compartilho anotações, revisões, exemplos de código e recursos que estou utilizando para revisar, aprender e aprimorar minhas habilidades em Python. 
 
 A ideia é que esse material possa ajudar outras pessoas que também estão começando ou querem se aprofundar na linguagem.😄
-
-Nesse repositório você pode encontrar:
-
-- **Anotações** sobre conceitos fundamentais e avançados.
-- **Exemplos de código** comentados e explicados.
-- **Projetos práticos** para aplicar o conhecimento.
-- **Recursos úteis** como livros, cursos, artigos e ferramentas.
 
 ## Por Que Aprender em Público? 🌍📖
 
@@ -32,8 +23,10 @@ Os exercícios e projetos práticos apresentados aqui são retirados do curso da
 
 Atualmente, o repositório contém os seguintes arquivos:
 
-00_estruturas_condicionais_e_repeticao.ipynb ➝ Condições (if, elif, else) e loops (for, while).
-01_listas_tuplas_dicionarios.ipynb ➝ Manipulação de listas, tuplas e dicionários.
+01_estrutura_de_dados.ipynb ➝ Manipulação de listas, tuplas e dicionários. 
+01_exercicios_estrutura_de_dados_asimov_academy ➝ Exercícios disponibilizados no curso Python Starter da ASIMOV Academy. 
+02_estruturas_condicionais_e_repeticao.ipynb ➝ Condições (if, elif, else) e loops (for, while).
+02_exercicios_estruturas_condicionais_e_repeticao_asimov_academy ➝ Exercícios disponibilizados no curso Python Starter da ASIMOV Academy.
 Novos conteúdos serão adicionados conforme minha revisão e aprendizado avançam.
 
 ## Como Contribuir 🤝
